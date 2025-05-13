@@ -2,7 +2,7 @@
 <img src = "https://img.in-part.com/resize?stripmeta=true&noprofile=true&quality=95&url=https%3A%2F%2Fs3-eu-west-1.amazonaws.com%2Fassets.in-part.com%2Ftechnologies%2Fheader-images%2F2aVv2twTYW9qZGGhPrxw_AdobeStock_241906053.jpeg&width=1200&height=820" width = "700" height = "500">
 
 
-#ABOUT THE PROJECT
+# ABOUT THE PROJECT
 
 Predicting agricultural yield is crucial for ensuring food security, managing resources, and supporting farming decisions. This project uses supervised machine learning models to estimate crop yield (Q/acres) based on key features such as rainfall, temperature, fertilizer usage, and soil macronutrients (N, P, K).
 
@@ -47,7 +47,7 @@ Distribution plots for all features
 
 Two regression models were implemented:
 
-Model	                      R² Score    
+Model	                       R² Score    
 Decision Tree Regressor	      0.770       
 Random Forest Regressor	      0.802       
 
