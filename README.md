@@ -38,7 +38,7 @@ Fertilizer usage shows a generally positive correlation with yield.
 Temperature appears to be the most influential feature, followed by rainfall.
 Macronutrients (N, P, K) vary across the dataset, hinting at different soil compositions or crop requirements.
 
-#Visualizations include:
+#### Visualizations include:
 Scatter plots of input features vs. yield
 Correlation heatmap
 Distribution plots for all features
